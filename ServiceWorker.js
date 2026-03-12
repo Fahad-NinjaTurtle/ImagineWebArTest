@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-ZapparTest-0.1.0";
 const contentToCache = [
-    "Build/a31d99b6334a74a4b74828fae5fec6d2.loader.js",
-    "Build/21ecd63a96adbb71f089a36e4b4b6bf2.framework.js",
-    "Build/b685393d666aebf2ac444a9d35b10bcf.data",
-    "Build/b10054b0acf85bf33aa753b93ef67e3e.wasm",
+    "Build/9d47dd25563183c524d4b74e00311428.loader.js",
+    "Build/74e129268b9db62e5c9d8f79ef79d3c1.framework.js",
+    "Build/88830afc2e2730fc61761587c6d7181f.data",
+    "Build/c2ed04b420218a6661c069bb89e696c7.wasm",
     "TemplateData/style.css"
 
 ];
